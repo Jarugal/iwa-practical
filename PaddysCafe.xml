@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <section name="Drinks">
+        <entry>
+            <item>Coke</item>
+            <price>2.50</price>
+        </entry>
+        <entry>
+            <item>Vodka</item>
+            <price>15</price>
+        </entry>
+        <entry vegeterian="true">
+            <item>Kombucha</item>
+            <price>2.0</price>
+        </entry>
+    <section name="Side">
+        <entry>
+            <item>Potato salad</item>
+            <price>4.50</price>
+        </entry>
+        <entry>
+            <item>Chips</item>
+            <price>4.50</price>
+        </entry>
+        <entry vegeterian="true">
+            <item>Rice</item>
+            <price>2.0</price>
+        </entry>
+    <section name="Breakfast">
+        <entry>
+            <item>Eggs Benedict</item>
+            <price>12.99</price>
+        </entry>
+        <entry>
+            <item>Poached egg</item>
+            <price>8</price>
+        </entry>
+        <entry vegeterian="true">
+            <item>French toast</item>
+            <price>2.0</price>
+        </entry>
+    <section name="Lunch">
+        <entry>
+            <item>Grilled chicken sandwich</item>
+            <price>7.50</price>
+        </entry>
+        <entry>
+            <item>Soup of the day</item>
+            <price>4</price>
+        </entry>
+        <entry vegeterian="true">
+            <item>Falafel</item>
+            <price>10</price>
+        </entry>
+    <section name="Dinner">
+        <entry>
+            <item>Ribeye steak</item>
+            <price>10.00</price>
+        </entry>
+        <entry>
+            <item>Shepherd's pie</item>
+            <price>15</price>
+        </entry>
+        <entry vegeterian="true">
+            <item>Sushi</item>
+            <price>2.0</price>
+        </entry>
+</menu>
